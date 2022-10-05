@@ -1,7 +1,8 @@
 '''
 Program: inner_functions_assignment.py
 Author: Joshua M. McGinley
-Date: 10/5/2022
+Last Date Modified: 10/5/2022
+
 Create a python file inner_functions_assignment.py. In your inner_functions_assignment.py, write a function
 measurements that accepts a list of measurements for a rectangle and returns a string with perimeter and area
 
